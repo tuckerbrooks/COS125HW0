@@ -9,5 +9,5 @@
 # N/A
 
 name = input("Hi, friend! What's your name?")
-print ("Hi,", name, ", I'm happy to meet you.")
+print ("Hi, ", name, "I'm happy to meet you.")
 print ("Let's go get some ice cream.")
